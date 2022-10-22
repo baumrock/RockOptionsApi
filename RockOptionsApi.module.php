@@ -16,7 +16,7 @@ class RockOptionsApi extends WireData implements Module
   {
     return [
       'title' => 'RockOptionsApi',
-      'version' => '1.0.1',
+      'version' => '1.0.2',
       'summary' => 'Module for easy manipulation of option-fields via API',
       'autoload' => true,
       'singular' => true,
